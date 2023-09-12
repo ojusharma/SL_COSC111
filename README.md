@@ -10,10 +10,10 @@ Friday : 11:00 AM - 12:00 PM : Zoom Meeting
 **Office Hour** \
 Wednesday : 1:00 PM - 1:30 PM : LIB 237 (Yup, it's a half-hour office hour)
 
-**FAQ**
+**FAQ** \
 [What is Supplementary Learning?](https://students.ok.ubc.ca/academic-success/learning-hub/supplemental-learning/) \
 [How do I reach the Student Learning Hub?](https://github.com/ojusharma/SL_COSC111/blob/main/misc/SLH_route.md) 
 
-**Not FAQ**
+**Not FAQ** \
 [Who am I?](https://www.linkedin.com/in/sharma-ojus/) \
 [What's the meaning of life?](https://raw.githubusercontent.com/ojusharma/SL_COSC111/main/misc/Meaning%20of%20Life.md)
