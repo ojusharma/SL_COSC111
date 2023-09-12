@@ -1,7 +1,7 @@
 # Supplementary Learning - COSC 111
 Hey folks! I'm Ojus (he/him), the Supplementary Learning Leader for COSC 111. \
 This repository contains all the files for SL this semester. \
-If you'd like to get in touch with me, feel free to use Canvas Messaging or email me at ojus.sharma@ubc.ca
+If you'd like to get in touch with me, feel free to use Canvas Messaging (preferable) or email me at ojus.sharma@ubc.ca
 
 **SL Sessions** \
 Wednesday : 9:30 AM - 11:00 AM : LIB 237 SL Room (Inside the Student Learning Hub) \
