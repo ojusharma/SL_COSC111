@@ -42,7 +42,7 @@ You gotta do what you gotta do.
 - **Attend the Midterm Review!**
 - **Take a break if you’re overwhelmed.**\
 I get it. I really do. Midterms can be a stressful period.\
-If you need a break, watch [this video.](https://www.youtube.com/watch?v=SyimUCBIo6c&list=LL&index=14)
+[cheese.](https://www.youtube.com/watch?v=gh2IflEryLQ)
 
 ### Take care of yourself.
 ### Good luck!
