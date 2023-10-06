@@ -20,7 +20,7 @@ While this may seem obvious, the slides for COSC 111 are an incredible resource.
 
 - **Solve the iClickers again!**  
 They’re great questions to test your understanding.
-Looking for the right answers? Here’s how you can see the answers to the iClickers done in class - [iClicker Video](../media/iclicker_vid.mp4)
+Looking for the right answers? Here’s how you can see the answers to the iClickers done in class - [iClicker Video](https://drive.google.com/file/d/1JVns_d1UFvYN8-VCsccxkuZCF5UhebGz/view?usp=drive_link)
 
 - **Practice, practice and practice** (cliché, I know)
     - Assignments
