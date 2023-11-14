@@ -12,7 +12,7 @@ If you need help figuring out what you should be doing to prepare for your midte
 
 You don’t *have* to do all of them. However, if you’d like to build a strong foundation, I’d suggest these.
 
-- **Watch the Midterm 1 Revision Video on Canvas**\
+- **Watch the Midterm Revision Video on Canvas**\
 Get an idea of what you’re expected to know for the midterm
 
 - **Go through the Lecture Slides** \
